@@ -11,6 +11,7 @@ body {
 }
 
 .navbar{
+  color:#A435F0;
   padding: 10px;
   display: flex;
   justify-content: space-between;
