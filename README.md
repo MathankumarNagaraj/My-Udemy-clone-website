@@ -16,7 +16,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/udemy-clone.git
+https://mathankumarnagaraj.github.io/My-Udemy-clone-website/
 Open the index.html file in your web browser to view the project.
 Future Improvements
 Implement JavaScript for interactive features.
